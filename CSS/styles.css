@@ -1,5 +1,5 @@
 body {
-    margin: 0px;
+    margin: 0 0 0 0;
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
 }
@@ -47,12 +47,14 @@ h3 {
     margin: 70px 0;
 }
 
+
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
 }
+
 
 .bottom-container {
     background-color: #66BFBF;
